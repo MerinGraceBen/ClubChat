@@ -1,0 +1,24 @@
+package com.niit.ClubChatBackEnd;
+
+import org.junit.BeforeClass;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
+import com.niit.ClubChatBackEnd.Dao.BlogDAO;
+import com.niit.ClubChatBackEnd.Dao.ForumDAO;
+
+public class ForumDAOTest 
+{
+	@Autowired
+	public static ForumDAO forumDAO;
+	@BeforeClass
+	public static void initialize()
+	{
+		AnnotationConfigApplicationContext context=new AnnotationConfigApplicationContext();
+		context.scan("com.niit.CLubChatBackEnd");
+		context.refresh();
+		
+		forumDAO=(ForumDAO)context.getBean("forumDao");
+	}
+
+}

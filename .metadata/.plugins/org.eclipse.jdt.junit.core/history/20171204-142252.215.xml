@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="ClubChatBackEnd" project="ClubChatBackEnd" tests="7" started="7" failures="0" errors="0" ignored="5">
+  <testsuite name="com.niit.ClubChatBackEnd.AppTest" time="26.209">
+    <testcase name="testApp" classname="com.niit.ClubChatBackEnd.AppTest" time="26.209"/>
+  </testsuite>
+  <testsuite name="com.niit.ClubChatBackEnd.BlogDAOTest" time="1.013">
+    <testcase name="addBlogTest" classname="com.niit.ClubChatBackEnd.BlogDAOTest" time="1.013"/>
+    <testcase name="getAllBlogTest" classname="com.niit.ClubChatBackEnd.BlogDAOTest" time="0.0" ignored="true"/>
+    <testcase name="updateBlogTest" classname="com.niit.ClubChatBackEnd.BlogDAOTest" time="0.0" ignored="true"/>
+    <testcase name="approveBlogTest" classname="com.niit.ClubChatBackEnd.BlogDAOTest" time="0.0" ignored="true"/>
+    <testcase name="getblogTest" classname="com.niit.ClubChatBackEnd.BlogDAOTest" time="0.0" ignored="true"/>
+    <testcase name="deleteBlogTest" classname="com.niit.ClubChatBackEnd.BlogDAOTest" time="0.0" ignored="true"/>
+  </testsuite>
+</testrun>

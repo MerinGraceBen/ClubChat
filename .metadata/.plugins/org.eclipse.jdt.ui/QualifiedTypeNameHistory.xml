@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.niit.SocialNetworkBackend.daoimpl.BlogDAOImpl"/>
+<fullyQualifiedTypeName name="com.niit.SocialNetworkBackend.dao.BlogDAO"/>
+<fullyQualifiedTypeName name="com.niit.SocialNetworkBackend.model.Blog"/>
+<fullyQualifiedTypeName name="com.niit.ClubChatBackEnd.Models.Job"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="com.niit.ClubChatBackEnd.Dao.JobDAO"/>
+</qualifiedTypeNameHistroy>

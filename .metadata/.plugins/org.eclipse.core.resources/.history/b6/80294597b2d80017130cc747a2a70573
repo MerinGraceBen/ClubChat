@@ -1,0 +1,5 @@
+package com.niit.ClubChatBackEnd.DaoImplementation;
+
+public class JobDAOImpl {
+
+}
